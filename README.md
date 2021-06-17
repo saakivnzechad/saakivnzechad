@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saakivnzechad
+- 👋 Hi, I’m @saakivnzechad / @sarthriles
 - 👀 I’m interested in Information Security, Data Science and Web Developing.
 - 🌱 I’m currently learning C#, Python. 
 - 📫 sarthriles@gmail.com
