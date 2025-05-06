@@ -26,4 +26,4 @@ Here are some of the technologies and tools I work with:
 
 ## Featured Projects
 
-* [Project 1] - Something worthwhile should be here, but not yet :(. [repository](link)
+* [Risa Mnogo] - Something worthwhile should be here, but not yet :(. [ecommerce-portfolio-project](https://github.com/saakivnzechad/ecommerce-portfolio-project)
