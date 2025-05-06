@@ -26,4 +26,6 @@ Here are some of the technologies and tools I work with:
 
 ## Featured Projects
 
-* [Risa Mnogo] - Something worthwhile should be here, but not yet :(. [ecommerce-portfolio-project](https://github.com/saakivnzechad/ecommerce-portfolio-project)
+* [Risa Mnogo] - A functional minimal e-commerce application developed as a portfolio piece. Built with React, PHP, and Tailwind CSS, demonstrating key full-stack and UI/UX skills.
+  [ecommerce-portfolio-project](https://github.com/saakivnzechad/ecommerce-portfolio-project)
+* [smth other]
