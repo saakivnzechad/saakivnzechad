@@ -26,6 +26,6 @@ Here are some of the technologies and tools I work with:
 
 ## Featured Projects
 
-* [Risa Mnogo] - A functional minimal e-commerce application developed as a portfolio piece. Built with React, PHP, and Tailwind CSS, demonstrating key full-stack and UI/UX skills.
-  [ecommerce-portfolio-project](https://github.com/saakivnzechad/ecommerce-portfolio-project)
+* [ecommerce-portfolio-project](https://github.com/saakivnzechad/ecommerce-portfolio-project) - `Risa Mnogo`: A functional minimal e-commerce application developed as a portfolio piece. Built with React, PHP, and Tailwind CSS, demonstrating key full-stack and UI/UX skills.
+* [personal-portfolio-archived](https://github.com/saakivnzechad/personal-portfolio-archived) - `Personal Portfolio`: Archived personal portfolio project. A client-side SPA with dynamic desktop/mobile experiences, custom routing, GSAP animations, and localization. Built with TypeScript, Tailwind, and Vite to showcase advanced frontend skills.
 * [smth other]
