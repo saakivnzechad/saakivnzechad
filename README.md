@@ -24,6 +24,9 @@ Here are some of the technologies and tools I work with:
 * **3D Graphics:** Photorealistic modeling and visualization in Cinema 4D / Blender.
 * **Multimedia:** Photo restoration and editing (Photoshop), video editing, creating promo and advertising content, music composition.
 
+**Website:**
+* [saakivnzechad.github.io](https://saakivnzechad.github.io/portfolio-website/) - My personal website, where you can find my full portfolio and download my CV.
+
 ## Featured Projects
 
 * [ecommerce-portfolio-project](https://github.com/saakivnzechad/ecommerce-portfolio-project) - `Risa Mnogo`: A functional minimal e-commerce application developed as a portfolio piece. Built with React, PHP, and Tailwind CSS, demonstrating key full-stack and UI/UX skills.
