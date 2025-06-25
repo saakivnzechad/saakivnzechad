@@ -13,10 +13,10 @@ Alongside this, I actively work with various other technical and creative fields
 Here are some of the technologies and tools I work with:
 
 **Web Development & Design:**
-* **Frontend:** React, Vite, JavaScript/TypeScript
-* **Backend:** Node.js, PHP (Laravel)
-* **Styling:** Tailwind CSS
-* **UI/UX:** Figma, Photoshop, Pixso, Illustrator
+* **Frontend:** React, Typescript, Tailwind, Performance, Responsive Design
+* **Backend:** Python, PHP (Laravel), SQL, RESTful API
+* **UI/UX:** Figma, Photoshop, Blender, Illustrator, Proto
+* **Method:** Git, Docker, VScode; OOP, Clean Code, SOLID  _(At least I'm trying to)_
 
 **Other Areas:**
 * **Python Development:** Developing Telegram bots, scripting, working with pygame, numpy, pandas, experimenting with ComfyUI nodes.
@@ -29,6 +29,7 @@ Here are some of the technologies and tools I work with:
 
 ## Featured Projects
 
+* [portfolio-website](https://github.com/saakivnzechad/portfolio-website) - `Portfolio Website`: A Clean, Responsive, and Localized Static own business card website.
 * [ecommerce-portfolio-project](https://github.com/saakivnzechad/ecommerce-portfolio-project) - `Risa Mnogo`: A functional minimal e-commerce application developed as a portfolio piece. Built with React, PHP, and Tailwind CSS, demonstrating key full-stack and UI/UX skills.
 * [personal-portfolio-archived](https://github.com/saakivnzechad/personal-portfolio-archived) - `Personal Portfolio`: Archived personal portfolio project. A client-side SPA with dynamic desktop/mobile experiences, custom routing, GSAP animations, and localization. Built with TypeScript, Tailwind, and Vite to showcase advanced frontend skills.
 * [aiogram-yoomoney-bot](https://github.com/saakivnzechad/aiogram-yoomoney-bot) - `aiogram-yoomoney-bot`: Telegram bot for automated sales and delivery of digital content with YooMoney payment integration.
