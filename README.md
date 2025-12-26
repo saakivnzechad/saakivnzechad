@@ -1,35 +1,38 @@
 # Hi there! I'm Danil Klimov 👋
-My profiles - saakivnzechad / sarthriles
 
-I'm a **Full-stack Web Developer & UI/UX Designer** focused on building modern and functional web applications. I enjoy turning sometimes absurd ideas into working products, concentrating on internal logic and functionality while also not forgetting about external appeal.
+**Frontend Developer** with a focus on performance, maintainability, and business logic.
+Currently working at a web studio, dealing with legacy refactoring and high-load optimizations.
 
-## What I Do
+> ⚠️ **Note on Activity:** Most of my commercial work happens in private **GitLab** repositories. My GitHub is for pet projects and experiments.
 
-My main area of expertise is **web development** and **web design**. I create user interfaces and develop server-side logic, striving for efficient and scalable solutions.
-Alongside this, I actively work with various other technical and creative fields, which serve as my hobbies or complementary skills, allowing me to approach tasks from different angles.
+---
 
-## My Skills and Technologies
+## 🛠 What I Do
 
-Here are some of the technologies and tools I work with:
+I don't just close tickets — I try to understand *why* we are building this feature and how to make it efficient.
 
-**Web Development & Design:**
-* **Frontend:** React, Typescript, Tailwind, Performance, Responsive Design
-* **Backend:** Python, PHP (Laravel), SQL, RESTful API
-* **UI/UX:** Figma, Photoshop, Blender, Illustrator, Proto
-* **Method:** Git, Docker, VScode; OOP, Clean Code, SOLID  _(At least I'm trying to)_
+* **Commercial Experience:** Currently at **Dancecolor**. My daily routine involves modernizing legacy code (Native JS + Bitrix), setting up build processes (Gulp/Webpack), and optimizing frontend performance (recently cut CSS bundle size by 88% and implemented custom resource managers).
+* **Pet Projects:** I use my free time to build clean, typed architectures using **React** and **TypeScript**, experimenting with modern stacks.
+* **Background:** I have prior experience in UI/UX Design and System Administration. This helps me speak the same language with designers and backend developers.
 
-**Other Areas:**
-* **Python Development:** Developing Telegram bots, scripting, working with pygame, numpy, pandas, experimenting with ComfyUI nodes.
-* **Game Development:** Experience with Unity and Godot.
-* **3D Graphics:** Photorealistic modeling and visualization in Cinema 4D / Blender.
-* **Multimedia:** Photo restoration and editing (Photoshop), video editing, creating promo and advertising content, music composition.
+## 💻 Tech Stack
 
-**Website:**
-* [saakivnzechad.github.io](https://saakivnzechad.github.io/portfolio-website/) - My personal website, where you can find my full portfolio and download my CV.
+**Core (Frontend):**
+* **Languages:** JavaScript (ES6+), TypeScript
+* **Frameworks:** React, Tailwind CSS
+* **Tools:** Gulp, Vite, Git, Figma (Advanced), BEM, SCSS
 
-## Featured Projects
+**Background & Hobbies (I know the basics):**
+* **Backend:** Python, PHP, SQL
+* **3D & Design:** Blender, Photoshop, Illustrator (Good understanding of composition and asset preparation)
+* **Scripting:** Bash/Python automation
 
-* [portfolio-website](https://github.com/saakivnzechad/portfolio-website) - `Portfolio Website`: A Clean, Responsive, and Localized Static own business card website.
-* [ecommerce-portfolio-project](https://github.com/saakivnzechad/ecommerce-portfolio-project) - `Risa Mnogo`: A functional minimal e-commerce application developed as a portfolio piece. Built with React, PHP, and Tailwind CSS, demonstrating key full-stack and UI/UX skills.
-* [personal-portfolio-archived](https://github.com/saakivnzechad/personal-portfolio-archived) - `Personal Portfolio`: Archived personal portfolio project. A client-side SPA with dynamic desktop/mobile experiences, custom routing, GSAP animations, and localization. Built with TypeScript, Tailwind, and Vite to showcase advanced frontend skills.
-* [aiogram-yoomoney-bot](https://github.com/saakivnzechad/aiogram-yoomoney-bot) - `aiogram-yoomoney-bot`: Telegram bot for automated sales and delivery of digital content with YooMoney payment integration.
+## 🚀 Featured Projects
+
+* [ecommerce-portfolio-project](https://github.com/saakivnzechad/ecommerce-portfolio-project) - **Risa Mnogo**: A functional e-commerce app (React, PHP, Tailwind).
+* [personal-portfolio-archived](https://github.com/saakivnzechad/personal-portfolio-archived) - **SPA Portfolio**: Showcasing custom routing, GSAP animations, and localization.
+* [aiogram-yoomoney-bot](https://github.com/saakivnzechad/aiogram-yoomoney-bot) - **Telegram Bot**: Automated sales with payment integration.
+
+---
+[saakivnzechad.tech](https://saakivnzechad.tech) — My website & CV.
+[gitlab/saakivnzechad](https://gitlab.com/saakivnzechad) - My GitLab Profile
